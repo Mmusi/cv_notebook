@@ -1,2 +1,3 @@
-# cv_notebook-note.txt
-notebook used for generating skills pie chart to include on my curriculum vitae.
+# cv_notebook
+
+Notebook used for generating skills pie chart to include on my curriculum vitae.
